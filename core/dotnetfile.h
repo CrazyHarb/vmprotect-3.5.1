@@ -1,6 +1,6 @@
 #ifndef DOTNETFILE_H
 #define DOTNETFILE_H
-
+#include "functional"
 #include "dotnet.h"
 
 std::string ILName(const std::string &ret, const std::string &type, const std::string &method, const std::string &signature);

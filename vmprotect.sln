@@ -1,6 +1,6 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.28307.2092
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "core", "vcproj\core.vcxproj", "{9C3F704A-25EC-4A48-907D-DF78EA2CFC47}"
 	ProjectSection(ProjectDependencies) = postProject
